@@ -10,7 +10,7 @@ I'm a passionate software developer with a love for learning and exploring new t
 - 🌐 Visit my portfolio: [miguedev1047.github.io](https://miguelitodev.vercel.app)
 
 ## 🛠️ My Skills
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Languages:** JavaScript and TypeScript
 - **Web Development:** React, Next.js, Taliwnd.
 - **Databases:** Prisma ORM, MySQL, PostgreSQL
 - **Tools & Technologies:** Git and Figma
