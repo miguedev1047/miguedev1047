@@ -4,8 +4,8 @@ I'm a passionate software developer with a love for learning and exploring new t
 
 ## 🚀 About Me
 - 🎓 I'm currently studying Python.
-- 🌱 I'm constantly learning and growing my skills in JavaScript and Python.
-- 💬 Ask me about JavaScript, Python, and anything tech-related.
+- 🌱 I'm constantly learning and growing my skills in JavaScript.
+- 💬 Ask me about JavaScript or anything tech-related.
 - 📫 How to reach me: [miguedev1047@example.com](mailto:miguelangeljimenez1047@gmail.com)
 - 🌐 Visit my portfolio: [miguedev1047.github.io](https://miguelitodev.vercel.app)
 
