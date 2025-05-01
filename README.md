@@ -3,11 +3,11 @@
 I'm a passionate software developer with a love for learning and exploring new technologies. Here's a little bit about me:
 
 ## 🚀 About Me
-- 🎓 I'm currently studying Python.
-- 🌱 I'm constantly learning and growing my skills in JavaScript.
-- 💬 Ask me about JavaScript or anything tech-related.
+-  I'm currently studying Python.
+-  I'm constantly learning and growing my skills in JavaScript.
+-  Ask me about JavaScript or anything tech-related.
 
-## 🛠️ My Skills
+##  My Skills
 - **Languages:** JavaScript and TypeScript
 - **Web Development:** React, Next.js, Taliwnd.
 - **Databases:** Prisma ORM, MySQL, PostgreSQL
