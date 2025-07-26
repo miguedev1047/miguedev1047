@@ -10,7 +10,7 @@ I'm a passionate software developer with a love for learning and exploring new t
 ##  My Skills
 - **Languages:** JavaScript and TypeScript
 - **Web Development:** React, Next.js, Astro, Tailwind.
-- **Databases:** Prisma ORM, MySQL, PostgreSQL
+- **Databases:** Drizzle ORM, MySQL, PostgreSQL
 - **Tools & Technologies:** Git and Figma
 
 ## 📈 GitHub Stats
